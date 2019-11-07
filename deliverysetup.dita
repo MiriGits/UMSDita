@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="deliverysetup">
+    <title>How to Set-Up a Delivery Address (PLocation)</title>
+    <shortdesc>U Market Services strives to ensure that all packages are delivered to their correct
+        destinations. To help us do so, be sure that your delivery address is correct by creating a
+        PLocation Code for EACH LOCATION you plan to send orders to. Your PLocation Code is the
+        unique number stored in EFS and with the U Market supplier. It references your shipping
+        address in a specific format.</shortdesc>
+    <taskbody>
+        <context>If you have any questions, please contact U Market Customer Support at 612-624-4878 or umarket@umn.edu.
+        <p>DO NOT choose the option "Modify Location Codes" for U Market ordres. Doing so can create errors with the U Market supplier and cause delays in delivery.</p></context>
+        <steps> 
+            <stepsection>To create a new PLocation Code, please follow these steps:</stepsection>
+            <step>
+                <cmd>Download the EFS New Location Request Form.</cmd>
+            </step>
+            <step>
+                <cmd>Check the box labeled "New Location Code #."</cmd>
+            </step>
+            <step>
+                <cmd>Enter the Department ID the new PLocation will be used for. You may add as many
+                    PLocations to a department as needed.</cmd>
+            </step>
+            <step>
+                <cmd>Comply with the form's guidelines. The address must bear particular information
+                    on specific lines for deliveries to be routed correctly.</cmd>
+                <tutorialinfo>
+                <ul><li>Description: Used by the Requester to define address (e.g. Bob's
+                    Lab)</li>
+                <li>Line 1: Department name</li>
+                <li>Line 2: Room and Buidling (e.g. RM 122 Civil Engineering
+                    B)</li>
+                <li>Line 3: Street Address</li>
+                <li>Postal Address: as directed</li></ul></tutorialinfo>
+            </step>
+            <step>
+                <cmd>Submit the form to controller@umn.edu</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

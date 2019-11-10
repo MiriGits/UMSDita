@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" xtrc="bookmap:1;3:10" xtrf="file:/Users/Miri/Documents/GitHub/XML/UMS.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle "/>  </booktitle></oxy:front-page-title></oxy:front-page><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="deliverysetup" oid="deliverysetup">
+    <title class="- topic/title ">How to Set-Up a Delivery Address (PLocation)</title>
+    <shortdesc class="- topic/shortdesc "> Set-up a delivery address so that U Market Services can ensure that all packages are
+        delivered to their correct destinations.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">DO NOT choose the option "Modify Location Codes" for U Market ordres. Doing so can
+                create errors with the U Market supplier and cause delays in delivery.</p>
+        </context>
+        <steps class="- topic/ol task/steps "> 
+            <stepsection class="- topic/li task/stepsection ">To create a new PLocation Code, please follow these steps:</stepsection>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download the EFS New Location Request Form.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check the box labeled "New Location Code #."</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the Department ID the new PLocation will be used for. You may add as many
+                    PLocations to a department as needed.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Comply with the form's guidelines. The address must bear particular information
+                    on specific lines for deliveries to be routed correctly.</cmd>
+                <tutorialinfo class="- topic/itemgroup task/tutorialinfo ">
+                <ul class="- topic/ul "><li class="- topic/li ">Description: Used by the Requester to define address (e.g. Bob's
+                    Lab)</li>
+                <li class="- topic/li ">Line 1: Department name</li>
+                <li class="- topic/li ">Line 2: Room and Buidling (e.g. RM 122 Civil Engineering
+                    B)</li>
+                <li class="- topic/li ">Line 3: Street Address</li>
+                <li class="- topic/li ">Postal Address: as directed</li></ul></tutorialinfo>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Submit the form to controller@umn.edu</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="concept_djw_mn3_rjb" oid="concept_djw_mn3_rjb">
+    <title class="- topic/title ">Delivery Addresses</title>
+    <shortdesc class="- topic/shortdesc ">U Market Services strives to ensure that all packages are delivered to their correct destinations.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To help us deliver to the correct destination, be sure that your delivery address is correct by creating a PLocation Code for EACH LOCATION you plan to send orders to.</p>
+        <p class="- topic/p ">Your PLocation Code is the unique number stored in EFS and with the U Market supplier. It references your shipping address in a specific format.</p>    
+        <p class="- topic/p ">If you have any questions, please contact U Market Customer Support at 612-624-4878 or umarket@umn.edu.</p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="task_nrg_5s3_rjb" oid="task_nrg_5s3_rjb">
+    <title class="- topic/title ">How to Track Your Requistion</title>
+    <shortdesc class="- topic/shortdesc ">Check your requisition status in U Market.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Log in to U Market.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the "Main Menu" at the top.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select "eProcurement."</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Manage Requisitions."</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">View the list of your recent requisitions.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Locate the heading "Request State" to find what state your requisition is
+                    in.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If your requisition has been dispatched, click on the "Req ID" in the far-left
+                    column to find your PO number.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "PO Information" underneath the last item and a pop-up screen will
+                    display your PO number under "PO ID." </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Copy and paste the PO number into U Market's Document Search tool to verify
+                    your PO is in U Market.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Contact U Market Customer Support at 612-624-4878 or umarket@umn.edu if our PO
+                    does not show up. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="reference_hbd_353_rjb" oid="reference_hbd_353_rjb">
+    <title class="- topic/title ">Requisition States</title>
+    <shortdesc class="- topic/shortdesc ">A list of possible requsition states.</shortdesc>
+    <refbody class="- topic/body        reference/refbody "> 
+    <properties class="- topic/simpletable reference/properties ">
+        <property class="- topic/strow       reference/property ">
+            <proptype class="- topic/stentry     reference/proptype ">Created</proptype>
+            <propdesc class="- topic/stentry     reference/propdesc ">Your order has passed through all budget checks and is currently in the
+                    process of becoming a PO.</propdesc>
+        </property>
+        <property class="- topic/strow       reference/property ">
+            <proptype class="- topic/stentry     reference/proptype ">Pending</proptype>
+            <propdesc class="- topic/stentry     reference/propdesc ">An order of over $100 that is waiting for your approver to authorize before
+                    going on to the next stage of budget checks.</propdesc>
+        </property>
+        <property class="- topic/strow       reference/property ">
+            <proptype class="- topic/stentry     reference/proptype ">Approved</proptype>
+            <propdesc class="- topic/stentry     reference/propdesc ">An order of under $100 that has become a requisition and is moving onto the
+                    next stage of budget checks.</propdesc>
+        </property>
+        <property class="- topic/strow       reference/property ">
+            <proptype class="- topic/stentry     reference/proptype ">Dispatched</proptype>
+            <propdesc class="- topic/stentry     reference/propdesc ">Your order has passed all budget checks, become a requistion, and is now an active PO.</propdesc>
+        </property>
+        <property class="- topic/strow       reference/property ">
+            <proptype class="- topic/stentry     reference/proptype ">Error</proptype>
+            <propdesc class="- topic/stentry     reference/propdesc ">Requistion could not be created due to an issue with your EFS chart string.</propdesc>
+        </property>
+    </properties></refbody>
+</reference></bookmap>

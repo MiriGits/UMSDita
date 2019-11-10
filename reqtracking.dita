@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nrg_5s3_rjb">
+    <title>How to Track Your Requistion</title>
+    <shortdesc>Check your requisition status in U Market.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log in to U Market.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Main Menu" at the top.</cmd>
+            </step>
+            <step>
+                <cmd>Select "eProcurement."</cmd>
+            </step>
+            <step>
+                <cmd>Click "Manage Requisitions."</cmd>
+            </step>
+            <step>
+                <cmd>View the list of your recent requisitions.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the heading "Request State" to find what state your requisition is
+                    in.</cmd>
+            </step>
+            <step>
+                <cmd>If your requisition has been dispatched, click on the "Req ID" in the far-left
+                    column to find your PO number.</cmd>
+            </step>
+            <step>
+                <cmd>Click "PO Information" underneath the last item and a pop-up screen will
+                    display your PO number under "PO ID." </cmd>
+            </step>
+            <step>
+                <cmd>Copy and paste the PO number into U Market's Document Search tool to verify
+                    your PO is in U Market.</cmd>
+            </step>
+            <step>
+                <cmd>Contact U Market Customer Support at 612-624-4878 or umarket@umn.edu if our PO
+                    does not show up. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

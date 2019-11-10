@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_djw_mn3_rjb">
+    <title>Delivery Addresses</title>
+    <shortdesc>U Market Services strives to ensure that all packages are delivered to their correct destinations.</shortdesc>
+    <conbody>
+        <p>To help us deliver to the correct destination, be sure that your delivery address is correct by creating a PLocation Code for EACH LOCATION you plan to send orders to.</p>
+        <p>Your PLocation Code is the unique number stored in EFS and with the U Market supplier. It references your shipping address in a specific format.</p>    
+        <p>If you have any questions, please contact U Market Customer Support at 612-624-4878 or umarket@umn.edu.</p>
+    </conbody>
+</concept>

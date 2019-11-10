@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_hbd_353_rjb">
+    <title>Requisition States</title>
+    <shortdesc>A list of possible requsition states.</shortdesc>
+    <refbody> 
+    <properties>
+        <property>
+            <proptype>Created</proptype>
+            <propdesc>Your order has passed through all budget checks and is currently in the
+                    process of becoming a PO.</propdesc>
+        </property>
+        <property>
+            <proptype>Pending</proptype>
+            <propdesc>An order of over $100 that is waiting for your approver to authorize before
+                    going on to the next stage of budget checks.</propdesc>
+        </property>
+        <property>
+            <proptype>Approved</proptype>
+            <propdesc>An order of under $100 that has become a requisition and is moving onto the
+                    next stage of budget checks.</propdesc>
+        </property>
+        <property>
+            <proptype>Dispatched</proptype>
+            <propdesc>Your order has passed all budget checks, become a requistion, and is now an active PO.</propdesc>
+        </property>
+        <property>
+            <proptype>Error</proptype>
+            <propdesc>Requistion could not be created due to an issue with your EFS chart string.</propdesc>
+        </property>
+    </properties></refbody>
+</reference>

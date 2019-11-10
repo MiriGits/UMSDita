@@ -8,7 +8,7 @@
         delivered to their correct destinations.</shortdesc>
     <taskbody class="- topic/body task/taskbody ">
         <context class="- topic/section task/context ">
-            <p class="- topic/p ">DO NOT choose the option "Modify Location Codes" for U Market ordres. Doing so can
+            <p class="- topic/p ">DO NOT choose the option "Modify Location Codes" for U Market orders. Doing so can
                 create errors with the U Market supplier and cause delays in delivery.</p>
         </context>
         <steps class="- topic/ol task/steps "> 
@@ -40,6 +40,9 @@
             </step>
         </steps>
     </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_2" type="concept"><?ditaot gentext?><linktext class="- topic/linktext ">Delivery Addresses</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">U Market Services strives to ensure that all packages are delivered to their correct destinations.</desc></link>
+    </related-links>
 </task><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="concept_djw_mn3_rjb" oid="concept_djw_mn3_rjb">
     <title class="- topic/title ">Delivery Addresses</title>
     <shortdesc class="- topic/shortdesc ">U Market Services strives to ensure that all packages are delivered to their correct destinations.</shortdesc>
@@ -90,6 +93,9 @@
             </step>
         </steps>
     </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_4" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">Requisition States</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A list of possible requsition states.</desc></link>
+    </related-links>
 </task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="reference_hbd_353_rjb" oid="reference_hbd_353_rjb">
     <title class="- topic/title ">Requisition States</title>
     <shortdesc class="- topic/shortdesc ">A list of possible requsition states.</shortdesc>

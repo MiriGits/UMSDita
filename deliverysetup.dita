@@ -6,7 +6,7 @@
         delivered to their correct destinations.</shortdesc>
     <taskbody>
         <context>
-            <p>DO NOT choose the option "Modify Location Codes" for U Market ordres. Doing so can
+            <p>DO NOT choose the option "Modify Location Codes" for U Market orders. Doing so can
                 create errors with the U Market supplier and cause delays in delivery.</p>
         </context>
         <steps> 
@@ -38,4 +38,7 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="deliveryaddresses.dita"/>
+    </related-links>
 </task>

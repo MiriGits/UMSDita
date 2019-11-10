@@ -42,4 +42,7 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="reqstates.dita"/>
+    </related-links>
 </task>
